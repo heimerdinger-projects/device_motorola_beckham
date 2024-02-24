@@ -25,9 +25,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk
 # Device
 $(call inherit-product, device/motorola/beckham/device.mk)
 
-# Recovery
-TARGET_RECOVERY_FSTAB := device/motorola/sdm660-common/rootdir/etc/fstab.qcom
-
 # Device identifiers
 PRODUCT_DEVICE := beckham
 PRODUCT_NAME := lineage_beckham
