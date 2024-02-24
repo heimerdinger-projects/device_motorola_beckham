@@ -31,7 +31,7 @@ TARGET_RECOVERY_FSTAB := device/motorola/sdm660-common/rootdir/etc/fstab.qcom
 # Device identifiers
 PRODUCT_DEVICE := beckham
 PRODUCT_NAME := lineage_beckham
-PRODUCT_BRAND := motorola
+PRODUCT_BRAND := Motorola
 PRODUCT_MODEL := Moto Z3 Play
 PRODUCT_MANUFACTURER := Motorola
 
