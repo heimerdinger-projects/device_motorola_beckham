@@ -34,7 +34,7 @@ TARGET_OTA_ASSERT_DEVICE := beckham
 TARGET_SCREEN_DENSITY := 420
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_beckham_defconfig
+TARGET_KERNEL_CONFIG := beckham_defconfig
 
 # HIDL
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/motomods.xml
